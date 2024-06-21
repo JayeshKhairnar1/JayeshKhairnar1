@@ -2,42 +2,79 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in a variety of programming languages and technologies.
 
+![Profile Views](https://komarev.com/ghpvc/?username=JayeshKhairnar1&color=brightgreen)
+
+---
+
 ## 💼 About Me
 
 - 🔭 I’m currently working on several exciting projects.
 - 🌱 I’m continuously learning and expanding my skill set.
 - 💬 Ask me about anything related to software development.
 
+---
+
 ## 🛠️ Skills
 
-Here are some of the technologies and languages I'm proficient in:
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- **Languages**: Java, C#, C++, JavaScript
-- **Frameworks & Libraries**: .NET, React
-- **Databases**: MySQL, MongoDB
-- **Other**: Git, Docker, REST APIs, and many more
+### Frameworks & Libraries
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 📈 GitHub Stats
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayeshKhairnar1&show_icons=true&theme=radical)
+### Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayeshKhairnar1&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📌 Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Quiz-App-Using-Spring-Boot-MYSQL&theme=radical)](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Vehicle-Configurator-Project&theme=radical)](https://github.com/JayeshKhairnar1/Vehicle-Configurator-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=CPP-Hands-On&theme=radical)](https://github.com/JayeshKhairnar1/CPP-Hands-On)
+
+---
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- Email: your-email@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
 
 ## 🌐 Find Me Online
 
-- Portfolio: [Your Portfolio](https://your-portfolio-link)
-- Blog: [Your Blog](https://your-blog-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog-link)
+
+---
 
 ## 📚 Recent Projects
 
-Here are a few projects I've been working on recently:
+### [Quiz App Using Spring Boot & MySQL](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL.git)
+A quiz application built with Spring Boot and MySQL. It allows users to take quizzes and see their scores.
 
-- [Project 1](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL.git): Brief description of Project 1.
-- [Project 2](https://github.com/JayeshKhairnar1/Vehicle-Configurator-Project.git): Brief description of Project 2.
-- [Project 3](https://github.com/JayeshKhairnar1/CPP-Hands-On.git): Brief description of Project 3.
+### [Vehicle Configurator Project](https://github.com/JayeshKhairnar1/Vehicle-Configurator-Project.git)
+A vehicle configurator tool that helps users customize and configure vehicles according to their preferences.
+
+### [C++ Hands-On](https://github.com/JayeshKhairnar1/CPP-Hands-On.git)
+A collection of C++ projects and exercises to enhance C++ programming skills.
 
 Feel free to explore my repositories and contribute to any projects that interest you!
 
