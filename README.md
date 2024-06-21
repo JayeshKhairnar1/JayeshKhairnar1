@@ -19,7 +19,7 @@ Here are some of the technologies and languages I'm proficient in:
 
 ## 📈 GitHub Stats
 
-![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayeshKhairnar1&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
