@@ -1,13 +1,46 @@
-- 👋 Hi, I’m @JayeshKhairnar1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Jayesh Khairnar
 
-<!---
-JayeshKhairnar1/JayeshKhairnar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://github.com/QuentinRiviere/QuentinRiviere/blob/main/assets/terminal.gif
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in a variety of programming languages and technologies.
+
+## 💼 About Me
+
+- 🔭 I’m currently working on several exciting projects.
+- 🌱 I’m continuously learning and expanding my skill set.
+- 💬 Ask me about anything related to software development.
+
+## 🛠️ Skills
+
+Here are some of the technologies and languages I'm proficient in:
+
+- **Languages**: Java, C#, C++, JavaScript
+- **Frameworks & Libraries**: .NET, React
+- **Databases**: MySQL, MongoDB
+- **Other**: Git, Docker, REST APIs, and many more
+
+## 📈 GitHub Stats
+
+![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
+- Email: your-email@example.com
+
+## 🌐 Find Me Online
+
+- Portfolio: [Your Portfolio](https://your-portfolio-link)
+- Blog: [Your Blog](https://your-blog-link)
+
+## 📚 Recent Projects
+
+Here are a few projects I've been working on recently:
+
+- [Project 1](https://github.com/your-github-username/project-1): Brief description of Project 1.
+- [Project 2](https://github.com/your-github-username/project-2): Brief description of Project 2.
+- [Project 3](https://github.com/your-github-username/project-3): Brief description of Project 3.
+
+Feel free to explore my repositories and contribute to any projects that interest you!
+
+---
+
+Thank you for visiting my profile. Have a great day! 😊
