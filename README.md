@@ -35,9 +35,9 @@ Here are some of the technologies and languages I'm proficient in:
 
 Here are a few projects I've been working on recently:
 
-- [Project 1](https://github.com/your-github-username/project-1): Brief description of Project 1.
-- [Project 2](https://github.com/your-github-username/project-2): Brief description of Project 2.
-- [Project 3](https://github.com/your-github-username/project-3): Brief description of Project 3.
+- [Project 1](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL.git): Brief description of Project 1.
+- [Project 2](https://github.com/JayeshKhairnar1/Vehicle-Configurator-Project.git): Brief description of Project 2.
+- [Project 3](https://github.com/JayeshKhairnar1/CPP-Hands-On.git): Brief description of Project 3.
 
 Feel free to explore my repositories and contribute to any projects that interest you!
 
