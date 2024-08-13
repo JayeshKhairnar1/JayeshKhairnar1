@@ -37,20 +37,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ---
 
-
-
-## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Vehicle-Configurator-Project&theme=radical)](https://github.com/JayeshKhairnar1/Vehicle-Configurator-Project)
-It is a B2B portal using Spring 6, Maven 3, Spring boot 3, REST API, MySQL8, JPA, Docker, JWT, MicroService, DotNet core , Web API Core 7.0, SQL Server, Entity Core 7.0 , React Js-18 The leasing company is the sponsor of the project, however, the users will be the rental car company that are the customers of the sponsor who need a fleet of cars on lease. The system allows users to select the car and configure it as per defined conditions for each model. The cost of the vehicle keeps on changing accordingly. The database driven system is easy to maintain. At the end of successful transaction invoice with all vehicle details is mailed in PDF format.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Quiz-App-Using-Spring-Boot-MYSQL&theme=radical)](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL)
-
-
-
----
-
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jayesh-khairnar-08509a274/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jayesh-khairnar-08509a274/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayeshkhairnar6@gmail.com)
 
 ---
