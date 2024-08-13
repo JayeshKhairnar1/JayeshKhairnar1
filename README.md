@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Quiz-App-Using-Spring-Boot-MYSQL&theme=radical)](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Vehicle-Configurator-Project&theme=radical)](https://github.com/JayeshKhairnar1/Vehicle-Configurator-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=CPP-Hands-On&theme=radical)](https://github.com/JayeshKhairnar1/CPP-Hands-On)
+
 
 ---
 
