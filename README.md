@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 - 🔭 I’m currently working on several exciting projects.
 - 🌱 I’m continuously learning and expanding my skill set.
-- 💬 Ask me about anything related to software development.
+
 
 ---
 
@@ -40,9 +40,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 
 ## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Quiz-App-Using-Spring-Boot-MYSQL&theme=radical)](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Vehicle-Configurator-Project&theme=radical)](https://github.com/JayeshKhairnar1/Vehicle-Configurator-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JayeshKhairnar1&repo=Quiz-App-Using-Spring-Boot-MYSQL&theme=radical)](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL)
+
 
 
 ---
