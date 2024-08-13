@@ -37,11 +37,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ---
 
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JayeshKhairnar1&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📌 Pinned Repositories
 
