@@ -8,9 +8,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## 💼 About Me
 
-- 🔭 I have recently complted my Post Graduation Diploma from CDAC-SM VITA Mumbai.During this corporate training I got to learn about various Frontend, Backend and Database technologies.
+- 🔭 I have recently completed my Post Graduation Diploma from CDAC-SM VITA Mumbai. During this corporate training, I got to learn about various Frontend, Backend, and Database technologies.
 - 🌱 I’m continuously learning and expanding my skill set.
-
 
 ---
 
@@ -24,6 +23,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ### Frameworks & Libraries
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Databases
@@ -47,13 +48,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ## 📚 Recent Projects
 
 ### [Vehicle Configurator Project](https://github.com/JayeshKhairnar1/Vehicle-Configurator-Project.git)
-It is a B2B portal using Spring 6, Maven 3, Spring boot 3, REST API, MySQL8, JPA, Docker, JWT, MicroService,  DotNet core , Web API Core 7.0, SQL Server, Entity Core 7.0 , React Js-18
-The leasing company is the sponsor of the project, however, the users will be the rental car company that are the customers of the sponsor who need a fleet of cars on lease. The system allows users to select the car and configure it as per defined conditions for each model. The cost of the vehicle keeps on changing accordingly. The database driven system is easy to maintain. At the end of successful transaction invoice with all vehicle details is mailed in PDF format. 
+It is a B2B portal using Spring 6, Maven 3, Spring Boot 3, REST API, MySQL 8, JPA, Docker, JWT, MicroService, DotNet Core, Web API Core 7.0, SQL Server, Entity Core 7.0, React JS-18. The leasing company is the sponsor of the project; however, the users will be the rental car company that are the customers of the sponsor who need a fleet of cars on lease. The system allows users to select the car and configure it as per defined conditions for each model. The cost of the vehicle keeps on changing accordingly. The database-driven system is easy to maintain. At the end of a successful transaction, an invoice with all vehicle details is mailed in PDF format.
 
 ### [Quiz App Using Spring Boot & MySQL](https://github.com/JayeshKhairnar1/Quiz-App-Using-Spring-Boot-MYSQL.git)
 A quiz application built with Spring Boot and MySQL. It allows users to take quizzes and see their scores.
-
-
 
 Feel free to explore my repositories and contribute to any projects that interest you!
 
