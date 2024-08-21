@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## 💼 About Me
 
-- 🔭 
+- 🔭 I have recently complted my Post Graduation Diploma from CDAC-SM VITA Mumbai.Where I got to learn about various Frontend, Backend and Database technologies.
 - 🌱 I’m continuously learning and expanding my skill set.
 
 
@@ -41,13 +41,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jayesh-khairnar-08509a274/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayeshkhairnar6@gmail.com)
-
----
-
-## 🌐 Find Me Online
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog-link)
 
 ---
 
