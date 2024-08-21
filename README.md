@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ## 💼 About Me
 
-- 🔭 I have recently complted my Post Graduation Diploma from CDAC-SM VITA Mumbai.Where I got to learn about various Frontend, Backend and Database technologies.
+- 🔭 I have recently complted my Post Graduation Diploma from CDAC-SM VITA Mumbai.During this corporate training I got to learn about various Frontend, Backend and Database technologies.
 - 🌱 I’m continuously learning and expanding my skill set.
 
 
